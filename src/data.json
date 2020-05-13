@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Vince Carter Retro Jersey",
+    "image": "https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3808000/ff_3808910-adfe3ffe0c8ed168b19a_full.jpg&w=340",
+    "desc": "Raptors 1998-99 Authentic Jersey",
+    "price": "$209.00"
+  },
+  {
+    "id": 2,
+    "name": "Raptors Championship Hat",
+    "image": "https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3578000/ff_3578275-606ca6f9725a7f4ed385_full.jpg&w=340",
+    "desc": "NBA Finals Championship Snapback",
+    "price": "$25.00"
+  },
+  {
+    "id": 3,
+    "name": "Raptors Championship Ring",
+    "image": "https://thejewelerblog.files.wordpress.com/2019/10/raptorsring1.jpg?resize=575%2C581",
+    "desc": "2019 NBA Finals Replica Ring",
+    "price": "$35.00"
+  },
+  {
+    "id": 4,
+    "name": "Kawhi Leonard Finals Shirt",
+    "image": "https://images.footballfanatics.com/FFImage/thumb.aspx?i=/productimages/_3556000/ff_3556228-4074bc117a1d17bf8b12_full.jpg&w=340",
+    "desc": "Toronto Raptors 2019 NBA Finals",
+    "price": "$40.00"
+  }
+]
